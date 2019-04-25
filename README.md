@@ -1,5 +1,5 @@
 # laradss
-Pembuatan Aplikasi DSS(Decession Support System) Menggunakan Framework Laravel:
+Pembuatan Aplikasi DSS(Decision Support System) Menggunakan Framework Laravel:
 
 System Requirement 
 - OS Windows 7;
