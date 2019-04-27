@@ -29,4 +29,4 @@ laradss
 - Create sebuah file pada views project laravel dan beri nama template.blade.php htdocs/laradss/resources/views/template.blade.php
 - Salin File index.html pada folder template sbadmin2 -> ke file template.blade.php
 - Lakukan penyesuaian link path template menggunakan sintaks pada file template.blade.php 
-example : {{ asset('sbadmin2/vendor/datatables/dataTables.bootstrap4.min.css')}}
+<br>example : {{ asset('sbadmin2/vendor/datatables/dataTables.bootstrap4.min.css')}}
