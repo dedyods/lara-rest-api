@@ -12,12 +12,13 @@ laradss
 
 #Step #1 Instalasi Composer
 
-- Download Composer https://getcomposer.org/Composer-Setup.exe Install dan arahkan composer pada php.ini sesuai dengan lokasi penyimpanan php.ini
+- Download Composer https://getcomposer.org/Composer-Setup.exe 
+- Install dan arahkan composer pada php.ini sesuai dengan lokasi penyimpanan php.ini
 
 #Step #2 Instalasi laravel
 
 - Proses instalasi menggunakan CMD (Command Prompt) dengan posisi direktory berada pada htdocs Cd xampp/htdocs
-- Instalasi laravel menggunakan CMD (Command Prompt) dengan perintah composer create-project --prefer-dist laravel/laravel laradss
+- Instalasi laravel menggunakan CMD (Command Prompt) dengan perintah <b>composer create-project --prefer-dist laravel/laravel laradss</b>
 - Jalankan service laravel dengan perintah : php artisan serve
 - Akses Project laravel melalui browser dengan Alamat : localhost:8000
 
