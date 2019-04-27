@@ -43,7 +43,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-laptop-code"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">SPK <sup>(SAW)</sup></div>
+        <div class="sidebar-brand-text mx-3">DSS <sup>(SAW)</sup></div>
       </a>
 
       <!-- Divider -->
