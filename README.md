@@ -17,8 +17,8 @@ laradss
 
 #Step #2 Instalasi laravel
 
-- Proses instalasi menggunakan CMD (Command Prompt) dengan posisi direktory berada pada htdocs Cd xampp/htdocs
-- Instalasi laravel menggunakan CMD (Command Prompt) dengan perintah <b>composer create-project --prefer-dist laravel/laravel laradss</b>
+- Proses instalasi menggunakan CMD (Command Prompt) dengan posisi direktory berada pada: <br> htdocs Cd xampp/htdocs
+- Instalasi laravel menggunakan CMD (Command Prompt) dengan perintah <br> <b>composer create-project --prefer-dist laravel/laravel laradss</b>
 - Jalankan service laravel dengan perintah : php artisan serve
 - Akses Project laravel melalui browser dengan Alamat : localhost:8000
 
